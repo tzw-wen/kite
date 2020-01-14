@@ -34,3 +34,5 @@ Please read the README-TPP.txt and percolator-license.txt for the license.
 Please read the README in libsvm for libsvm.
 
 Please use the command ldd SQTMassFixer to check the common libraries are available in your linux system.
+
+The boost libraries were included with it license.
